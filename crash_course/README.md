@@ -1,9 +1,4 @@
-This document provides a brief introduction of things you might want to know when you first join the Brenner group.  The document is by no means comprehensive, so please feel free to add to it if you think some key information is missing. To learn how to edit this file, please contact [@xiyudu](https://github.com/orgs/brennergroup/people/xiyudu), [@ellamichelleking](https://github.com/orgs/brennergroup/people/ellamichelleking), or [@gianthawk](https://github.com/orgs/brennergroup/people/gianthawk).
-
-Before everything, make sure that you have joined the following mailing lists and groups
-1. brennergroup@seas.harvard.edu
-2. Brenner Group [Github Team](https://github.com/brennergroup). 
-3. If needed, a [Cannon Cluster](https://www.rc.fas.harvard.edu/about/cluster-architecture/) account.
+This document provides a brief introduction of things you might want to know when you first join the Engel group. This is a living document -- let Megan know if you think something is missing that should be here!
 
 Links below provide brief introductions to useful software packages:
 1. [Python](https://github.com/brennergroup/group_documents/blob/main/crash_course/intro_python.md)
@@ -20,9 +15,3 @@ Primers on research areas in the group:
 3. [Intro to self-assembly](https://github.com/brennergroup/group_documents/blob/main/crash_course/intro_self_assembly.md)
 4. Intro to fluid dynamics
 5. Intro to machine learning
-
-Quick tip: if a paper is behind a paywall, paste this before the url: http://ezp-prod1.hul.harvard.edu/login?url=
-If the Harvard library has access to the paper, you'll be able to log in and read the paper.
-Example: https://science.sciencemag.org/content/369/6499/30.full is behind a paywall, so instead, do this: 
-http://ezp-prod1.hul.harvard.edu/login?url=https://science.sciencemag.org/content/369/6499/30.full
-
